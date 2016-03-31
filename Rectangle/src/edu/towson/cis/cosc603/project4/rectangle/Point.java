@@ -30,7 +30,7 @@ public class Point {
 
 	/**
 	 * Gets the diagonal.
-	 * @param p2 Point p2 to calculate the area
+	 * @param p2 Point p2 to calculate the diagonal
 	 * @return  the diagonal
 	 */
 	public Double getDiagonal(Point p2) {
